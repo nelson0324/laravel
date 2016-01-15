@@ -26,5 +26,11 @@ class User{
       
   }
 
+  public function getName(){
+      
+     
+       return $this->firtsname;
+      
+  }
 
 }
