@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/xampMongodb/htdocs/Laravel/composer.json</file>
-            <file>file:/D:/xampMongodb/htdocs/Laravel/src/prueba.php</file>
-            <file>file:/D:/xampMongodb/htdocs/Laravel/src/User.php</file>
+            <file>file:/D:/xampp_drupal/htdocs/Laravel/tests/UserTest.php</file>
+            <file>file:/D:/xampp_drupal/htdocs/Laravel/composer.json</file>
+            <file>file:/D:/xampp_drupal/htdocs/Laravel/src/prueba.php</file>
+            <file>file:/D:/xampp_drupal/htdocs/Laravel/src/User.php</file>
         </group>
     </open-files>
 </project-private>
